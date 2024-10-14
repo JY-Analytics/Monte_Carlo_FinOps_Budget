@@ -2,6 +2,9 @@
 data/*
 !data/.gitkeep  # Keeps the folder in the repo
 
+# Ignore all files inside subfolder
+data/dataset-examples/*
+
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
