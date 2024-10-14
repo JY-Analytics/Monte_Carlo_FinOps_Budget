@@ -1,5 +1,5 @@
-# Private folder
-private/
+# Data folder contents
+data/*
 
 
 # Byte-compiled / optimized / DLL files
