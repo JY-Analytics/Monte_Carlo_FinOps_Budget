@@ -1,0 +1,13 @@
+name: MC_Budget_env
+channels:
+- defaults
+dependencies:
+- jupyterlab
+- pandas
+- openpyxl
+- matplotlib
+- numpy
+- scipy
+- pymc
+- arviz
+- xarray
