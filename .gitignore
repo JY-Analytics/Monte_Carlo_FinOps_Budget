@@ -1,5 +1,6 @@
-# Data folder contents
+# Ignore all files in the data folder but include the folder itself
 data/*
+!data/.gitkeep  # Keeps the folder in the repo
 
 
 # Byte-compiled / optimized / DLL files
